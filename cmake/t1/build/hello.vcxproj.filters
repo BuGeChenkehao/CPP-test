@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\ZJU\ZJU-\20190705短学期C++项目管理及工程实践\CPP-test\cmake\t1\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\ZJU\ZJU-\20190705短学期C++项目管理及工程实践\CPP-test\cmake\t1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1295B77F-E494-38D7-A8B4-783FD6D336AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
