@@ -3,7 +3,7 @@ image:
 clone_folder: c:\projects\source
 build_script:
   - cmd: dir
-  - cmd: cd CPP-test/cmake/t1
+  - cmd: cd ./cmake/t1
   - cmd: dir
   - cmd: mkdir build
   - cmd: cd build
