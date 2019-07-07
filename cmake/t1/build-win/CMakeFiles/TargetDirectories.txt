@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/GitRepo/CPP-test/cmake/t1/build-win/CMakeFiles/hello.dir
+C:/Users/Lenovo/Desktop/GitRepo/CPP-test/cmake/t1/build-win/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lenovo/Desktop/GitRepo/CPP-test/cmake/t1/build-win/CMakeFiles/ZERO_CHECK.dir
