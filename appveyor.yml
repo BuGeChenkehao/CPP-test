@@ -1,0 +1,10 @@
+images:
+  - Visual Studio 2019
+clone_folder: c:\projects\source
+build_script:
+  - cmd: >-
+    mkdir build
+    cd build
+    cmake c:\projects\source\CPP-test\cmake\t1 -G "Visual Studio 16"
+    cmake --build . --config "Debug"
+
