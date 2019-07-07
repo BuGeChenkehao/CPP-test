@@ -1,9 +1,8 @@
-images:
+image:
   - Visual Studio 2017
 clone_folder: c:\projects\source
 build_script:
-- cmd: >-
-  mkdir build
-  cd build
-  cmake c:\projects\source\CPP-test\cmake\t1 -G "Visual Studio 16"
-  cmake --build . --config "Debug"
+  - cmd: mkdir build
+  - cmd: cd build  
+  - cmd: cmake c:\projects\source\CPP-test\cmake\t1 -G "Visual Studio 16"
+  - cmd: cmake --build . --config "Debug"
