@@ -84,8 +84,8 @@ D:/ProgramFiles/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC-CXX.cmake
 D:/ProgramFiles/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC.cmake
 D:/ProgramFiles/CMake/share/cmake-3.15/Modules/Platform/Windows.cmake
 D:/ProgramFiles/CMake/share/cmake-3.15/Modules/Platform/WindowsPaths.cmake
-E:/ZJU/ZJU-/20190705短学期C++项目管理及工程实践/CPP-test/cmake/t1/CMakeLists.txt
-E:/ZJU/ZJU-/20190705短学期C++项目管理及工程实践/CPP-test/cmake/t1/build/CMakeFiles/3.15.0-rc3/CMakeCCompiler.cmake
-E:/ZJU/ZJU-/20190705短学期C++项目管理及工程实践/CPP-test/cmake/t1/build/CMakeFiles/3.15.0-rc3/CMakeCXXCompiler.cmake
-E:/ZJU/ZJU-/20190705短学期C++项目管理及工程实践/CPP-test/cmake/t1/build/CMakeFiles/3.15.0-rc3/CMakeRCCompiler.cmake
-E:/ZJU/ZJU-/20190705短学期C++项目管理及工程实践/CPP-test/cmake/t1/build/CMakeFiles/3.15.0-rc3/CMakeSystem.cmake
+E:/dev/Projects/CPP-test/cmake/t1/CMakeLists.txt
+E:/dev/Projects/CPP-test/cmake/t1/build-win/CMakeFiles/3.15.0-rc3/CMakeCCompiler.cmake
+E:/dev/Projects/CPP-test/cmake/t1/build-win/CMakeFiles/3.15.0-rc3/CMakeCXXCompiler.cmake
+E:/dev/Projects/CPP-test/cmake/t1/build-win/CMakeFiles/3.15.0-rc3/CMakeRCCompiler.cmake
+E:/dev/Projects/CPP-test/cmake/t1/build-win/CMakeFiles/3.15.0-rc3/CMakeSystem.cmake

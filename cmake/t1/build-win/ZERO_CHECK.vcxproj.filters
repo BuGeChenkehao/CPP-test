@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="E:\ZJU\ZJU-\20190705短学期C++项目管理及工程实践\CPP-test\cmake\t1\build\CMakeFiles\06a65b199873636d9871d8034c9ee375\generate.stamp.rule">
+    <CustomBuild Include="E:\dev\Projects\CPP-test\cmake\t1\build-win\CMakeFiles\ce45a442ab955f101cd9510919938c48\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{A349DF21-C501-3BE6-A9A4-0A3D8C107D93}</UniqueIdentifier>
+      <UniqueIdentifier>{7155762B-4C3D-35FE-9B83-FEAF26063563}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
